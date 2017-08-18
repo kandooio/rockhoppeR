@@ -1,3 +1,3 @@
 # rockhopper
 
-A collection of useful custom text mining functions for R
+A collection of useful custom functions for R
